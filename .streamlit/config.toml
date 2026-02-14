@@ -1,0 +1,5 @@
+[server]
+# How often to send a ping to keep the connection alive (in seconds)
+websocketPingInterval = 60
+# How long to wait for a response before dropping the connection (in seconds)
+websocketPingTimeout = 300
